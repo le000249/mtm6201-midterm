@@ -1,0 +1,223 @@
+.custom_logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    width: 300px; 
+
+}
+
+.header_menu {
+    padding: 0;
+    list-style: none;
+    margin: 0;
+    text-align: center;
+}
+
+.header_menu li {
+    position: relative; 
+    padding-left: 60px;
+    display: inline;
+    font-size: 30px;
+    font-family: 'Handlee', cursive;
+}
+
+.header_menu ul {
+    font-size: 1rem;
+    list-style: none;
+    margin: 0 0 0 0;
+    padding-left: 0; 
+}
+
+.header a {
+    color: #D96B43; 
+}
+
+.header a:hover {
+    color: #D9CBBA
+}
+
+.image_container {
+    outline: 0; 
+    width: 100%;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-right: auto;
+    margin-left: auto; 
+}
+
+.main_image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+    width: 1200px;
+    height: 500px;
+}
+
+
+
+.row {
+    display: flex; 
+}
+
+.image {
+    flex: 50%;
+    padding: 5px;
+}
+
+.product_image {
+    width: 600px;
+    height: 500px;
+    display:block;
+    margin-left: 0px;
+    margin-right: auto; 
+
+}
+
+.imagery_image {
+    width: 600px;
+    height: 500px;
+    display:block;
+    margin-left: auto;
+    margin-right: 0px; 
+}
+
+.products_heading {
+    position: absolute;
+    margin-left: 22px;
+    margin-top: 20px;
+    font-size: 24px;
+    color: white;
+    font-family: 'Cookie', cursive;
+    
+}
+
+.imagery_heading {
+    position: absolute;
+    margin-left: 160px;
+    margin-top: 20px;
+    font-size: 24px;
+    color: white;
+    font-family: 'Cookie', cursive;
+}
+
+.row_second {
+    display: flex; 
+}
+
+.image_second {
+    flex: 50%;
+    padding: 5px;
+}
+
+.about_us_image {
+    width: 600px;
+    height: 500px;
+    display:block;
+    margin-left: auto;
+    margin-right: -10px; 
+
+}
+
+.contact_image {
+    width: 600px;
+    height: 500px;
+    display:block;
+    margin-left: 10px;
+    margin-right: auto; 
+}
+
+.contact_heading {
+    position: absolute;
+    margin-left: 22px;
+    margin-top: 20px;
+    font-size: 24px;
+    color: white;
+    font-family: 'Cookie', cursive;
+    
+}
+
+.about_us_heading {
+    position: absolute;
+    margin-left: 160px;
+    margin-top: 20px;
+    font-size: 24px;
+    color: white;
+    font-family: 'Cookie', cursive;
+}
+
+#social_link h3 {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    font-family: 'Handlee', cursive;
+    font-size: 40px;
+}
+
+#social_link h3:hover {
+    color: #D9CBBA
+}
+
+.text_center {
+    text-align: center;
+}
+
+.small_logo {
+    width: 200px;
+    margin-left: 100px;
+    margin-right: auto; 
+}
+
+.container_footer {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #D96B43;
+
+}
+
+.business_hour {
+    margin-left: 300px;
+    margin-right: auto;
+    font-family: 'Handlee', cursive;
+}
+
+.text_follow {
+    margin-left: -150px;
+    margin-right: auto;
+    font-family: 'Handlee', cursive;
+
+}
+
+.social_icon ul {
+    display: block;
+    margin-bottom: 1rem;
+    box-sizing: border-box;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+.social_icon li {
+    margin-right: 9px;
+    height: 50px;
+    width: 50px;
+    display:inline-flex;
+    align-items: left;
+    justify-content: left;
+}
+
+.instagram_icon {
+    margin-left: -200px;
+    margin-right: auto; 
+}
+
+.facebook_icon {
+    margin-left:-180px;
+    margin-right: auto;
+}
+
+.tiktok_icon {
+    margin-left: -160px;
+    margin-right: auto;
+}
+    

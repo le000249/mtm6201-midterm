@@ -1,0 +1,55 @@
+@media screen and (max-width:800px) and (min-width:400px) {
+   .phonenumber {
+    font-size: 10px;
+    display: block;
+    margin-left: -100px;
+   }
+
+   .social_icon li {
+    width: 30px;
+    height: 30px;
+    margin-left: -70px
+   }
+
+   .address {
+    font-size: 10px;
+    margin-left: -100px
+   }
+
+   .google_map {
+    width: 200px;
+    height:200px;
+    margin-left: -100px;
+   }
+
+   .message_container {
+    margin-left: -200px;
+    font-size: 12px;
+   }
+
+   .small_logo {
+    margin-left: 0px;
+}
+
+.business_hour {
+    margin-left: 10px; 
+}
+
+.text_follow {
+    margin-left: -120px;
+}
+
+.instagram_icon {
+    margin-left: 10px;
+}
+
+.facebook_icon {
+    margin-left: -10px;
+}
+
+.tiktok_icon {
+    margin-left: -30px;
+}
+
+
+}

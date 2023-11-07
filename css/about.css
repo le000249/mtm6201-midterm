@@ -1,0 +1,164 @@
+ul.menu {
+    display:inline-flex;
+}
+
+.menu {
+    position: absolute;
+    right: 0;
+    padding: 0;
+    margin: 0;
+}
+
+.menu a {
+    color: white;
+    background-color: #D96B43;
+    text-underline-position: none;
+}
+
+li.menu_item {
+    display: inline-block;
+    margin: 0 10px; 
+    font-size: 20px;
+    text-decoration-color: white;
+}
+
+.main_image img {
+    width: 100%;
+    height: 300px;
+    max-height: 100%;
+    object-fit: cover;
+}
+
+img {
+    border-style: none;
+    vertical-align: middle;
+}
+
+.title h1 {
+    text-align: center;
+    font-weight: bold;
+    line-height: normal;
+    font-family: 'Handlee', cursive;
+}
+
+.first_text {
+    text-align: center;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 20px;
+}
+
+.owner_heading {
+    margin-left: 400px;
+    font-family: 'Handlee', cursive;
+}
+
+.owner_text {
+    margin-left: 200px;
+    font-family: 'Patrick Hand', cursive;
+}
+
+.owner_image {
+    margin-left: 200px;
+}
+
+.about_row {
+    display: flex; 
+}
+
+.owner_container {
+    flex: 50%;
+    padding: 5px;
+}
+
+.journey_container {
+    flex: 60%;
+
+}
+
+.journey_image {
+    margin-left: 0px;
+    margin-bottom: 50px;
+}
+
+.journey_heading {
+    margin-left: 230px;
+    font-family: 'Handlee', cursive;
+}
+
+.journey_text {
+    margin-left: 10px;
+    text-align: left;
+    font-family: 'Patrick Hand', cursive;
+}
+
+#social_link h3 {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    font-family: 'Handlee', cursive;
+    font-size: 40px;
+}
+
+.text_center {
+    text-align: center;
+}
+
+.small_logo {
+    width: 200px;
+    margin-left: 100px;
+    margin-right: auto; 
+}
+
+.container_footer {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #D96B43;
+
+}
+
+.business_hour {
+    margin-left: 300px;
+    margin-right: auto;
+    font-family: 'Handlee', cursive;
+}
+
+.text_follow {
+    margin-left: -150px;
+    margin-right: auto;
+    font-family: 'Handlee', cursive;
+
+}
+
+.social_icon ul {
+    display: block;
+    margin-bottom: 1rem;
+    box-sizing: border-box;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+.social_icon li {
+    margin-right: 9px;
+    height: 50px;
+    width: 50px;
+    display:inline-flex;
+    align-items: left;
+    justify-content: left;
+}
+
+.instagram_icon {
+    margin-left: -200px;
+    margin-right: auto; 
+}
+
+.facebook_icon {
+    margin-left:-180px;
+    margin-right: auto;
+}
+
+.tiktok_icon {
+    margin-left: -160px;
+    margin-right: auto;
+}

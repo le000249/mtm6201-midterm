@@ -1,0 +1,71 @@
+@media screen and (max-width:800px) and (min-width:400px) {
+    .main_image {
+        width: 100%; 
+    }
+
+    .title h1 {
+        margin-left: 50px;
+        font-size: 30px;
+    }
+
+    .first_text {
+        font-size: 16px;
+
+    }
+
+    main {
+        display: block;
+        font-size: 16px;
+    }
+
+    .owner_heading {
+        margin-left: 10px;
+    }
+
+    .owner_text {
+        margin-left: 10px;
+        margin-inline-end: 100px;
+    }
+
+    .owner_image {
+        width: 300px;
+        margin-left: 10px;
+    }
+
+    .journay_heading {
+        margin-inline-start: left;
+    }
+    
+    
+    .journey_image {
+        width:400px;
+}
+
+.small_logo {
+    margin-left: 0px;
+}
+
+.business_hour {
+    margin-left: 10px; 
+}
+
+.text_follow {
+    margin-left: 10px;
+}
+
+.tiktok_icon {
+    margin-left: -150px;
+    margin-bottom: 1px;
+}
+
+.facebook_icon {
+    margin-left: -10px;
+    margin-bottom: 1px;
+}
+
+.instagram_icon {
+    margin-bottom: 1px;
+    margin-left: 130px;
+    
+}
+}
