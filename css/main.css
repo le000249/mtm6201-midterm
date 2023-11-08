@@ -1,3 +1,4 @@
+/* the header logo*/
 .custom_logo {
     display: block;
     margin-left: auto;
@@ -5,6 +6,7 @@
     width: 300px; 
 
 }
+/* the menu header*/
 
 .header_menu {
     padding: 0;
@@ -35,6 +37,8 @@
 .header a:hover {
     color: #D9CBBA
 }
+
+/* all the images*/
 
 .image_container {
     outline: 0; 
@@ -145,6 +149,8 @@
     font-family: 'Cookie', cursive;
 }
 
+/*the social link thing*/
+
 #social_link h3 {
     margin-bottom: 15px;
     margin-top: 15px;
@@ -156,11 +162,8 @@
     color: #D9CBBA
 }
 
-.text_center {
-    text-align: center;
-    animation: slideIn 1s ease-in-out;
-}
-
+/* the animation of the social link thing*/
+/* the footer*/
 .small_logo {
     width: 200px;
     margin-left: 100px;
@@ -222,7 +225,7 @@
     margin-right: auto;
 }
 
-
+/* the animation*/
 @keyframes slideIn {
     0% {
       transform: translateX(-100%);
@@ -233,11 +236,11 @@
       opacity: 1;
     }
   }
-
+/* the animation of the social link thing*/
   .text_center {
     animation: slideIn 4s ease-in-out;
   }
-
+/* the animation*/
 @keyframes fadeIn {
     0% {
       opacity: 0;
@@ -246,10 +249,12 @@
       opacity: 1;
     }
   }
-
+/* the animation of the logo on the top thing*/
   .custom_logo {
     animation: fadeIn 1s ease-in-out;
   }
+
+  /* the back to top box*/
 
   #back-to-top {
     position: fixed;
